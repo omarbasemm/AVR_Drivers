@@ -1,0 +1,1 @@
+Here We Start With Our First GPIO, DIO Driver Which Stands for Digital input output, This Driver only deals with pins with digital signals as mentioned zeros and ones only
